@@ -24,7 +24,7 @@ Conecta tus dispositivos, visualiza las aplicaciones instaladas, captura la pant
 
 ### Clonación del Repositorio
 ```sh
-git clone https://github.com/fonroot01/DroidSpecter.git
+[https://github.com/fonroot01/Droid-Specter.git]
 ```
 
 ### Instalación de Dependencias
@@ -38,18 +38,18 @@ pip install ttkbootstrap Pillow
 
 1. Navega al directorio del repositorio clonado:
    ```sh
-   cd DroidSpecter
+   cd Droid_Specter
    ```
 2. Ejecuta el script principal:
    ```sh
-   python DroidSpecter.py
+   python Droid-Specter.py
    ```
 3. Conéctate a tu dispositivo Android mediante ADB por USB o Wi-Fi.
 4. Utiliza la interfaz gráfica para gestionar las aplicaciones y configuraciones del dispositivo.
 
 ### Desde el Archivo .exe (Windows)
 
-1. Ubica el archivo `DroidSpecter.exe` en la carpeta `dist`.
+1. Ubica el archivo `Droid-Specter.exe` en la carpeta `dist`.
 2. Ejecuta el archivo `.exe` haciendo doble clic.
 3. Si aparece una advertencia de seguridad de Windows, selecciona **"Ejecutar de todas formas"**.
 4. Conéctate a tu dispositivo Android mediante ADB por USB o Wi-Fi.
