@@ -69,12 +69,33 @@ pip install ttkbootstrap Pillow
    - Ingresa la dirección IP y el puerto (generalmente `5555`) en Droid Specter y haz clic en "Conectar".
 
 ## Capturas de Pantalla
+### Interfaz
+![1_Interfaz](https://github.com/user-attachments/assets/9f8abe5b-8b3c-4a31-8df4-2ddf8d632c6b)
 
-![Interfaz de usuario](https://github.com/user-attachments/assets/f07adff1-5060-4a31-aadd-67b3e94c0683)
-![Conexión establecida](https://github.com/user-attachments/assets/6f015480-3783-4d8b-b8ef-606e94d72098)
-![Permitir depuración por USB](https://github.com/user-attachments/assets/6678843a-d2c5-43d1-ac07-87d56de6aeb2)
-![Selección de instalador APK](https://github.com/user-attachments/assets/6cd6c8ce-a773-46d3-9fa4-d56aaa232f1d)
-![Confirmación de instalación](https://github.com/user-attachments/assets/672c93ab-bd3d-4b2a-9a3e-0db694f61621)
+### Ingreso de IP
+![2_IP_y_Conexion](https://github.com/user-attachments/assets/b4118293-ccd2-40ed-93ff-773cb0ac8c28)
+
+### Permitir depuracion por USB
+![3_Permitir depuracion por USB](https://github.com/user-attachments/assets/bd19b427-56c4-4e70-a6ef-63e37a23f97f)
+
+### Conexion establecida
+![4_Conexion establecida](https://github.com/user-attachments/assets/f99cd2d7-780f-4b13-bf25-9b70c56f59bd)
+
+### Opcion para buscar APK
+![5_I_APK](https://github.com/user-attachments/assets/2aa17eeb-71b7-47b0-a498-5c4d1661bd0a)
+
+### Buscamos e instalamos
+![6_Se busca el instalador APK](https://github.com/user-attachments/assets/553c7fe3-4a53-4c4a-beff-52bf2d66aab0)
+
+### APK Instalado
+![7_APK_Instalado](https://github.com/user-attachments/assets/03fb2ea3-dc77-417c-a593-99e21f8eb18b)
+
+### Validamos que se haya instalado
+![8_Instalacion correcta](https://github.com/user-attachments/assets/521f08b7-143e-46fa-b26a-46b317c66121)
+
+### Excelente, app instala!!!
+![Listo](https://github.com/user-attachments/assets/73890a9f-a233-492b-916b-f946214fbcfd)
+
 
 ## Contribuciones
 
