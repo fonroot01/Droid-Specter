@@ -2,7 +2,7 @@
 
 Droid Specter es una herramienta desarrollada en Python que te permite tomar el control de tus dispositivos Android directamente desde tu PC.
 Con una interfaz gráfica amigable, podrás gestionar tus dispositivos a través de ADB (Android Debug Bridge) de forma sencilla.
-Conecta tus dispositivos, visualiza las aplicaciones instaladas, instala o desinstala aplicaciones, captura de pantalla e incluso deshabilita aquellas que no necesites, todo desde la comodidad de tu PC.
+Conecta tus dispositivos, visualiza las aplicaciones instaladas, captura la pantalla, instala o desinstala aplicaciones e incluso deshabilita aquellas que no necesites, todo desde la comodidad de tu PC.
 
 ## Funciones
 
