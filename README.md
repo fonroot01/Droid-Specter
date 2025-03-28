@@ -24,7 +24,7 @@ Conecta tus dispositivos, visualiza las aplicaciones instaladas, captura la pant
 
 ### Clonación del Repositorio
 ```sh
-[https://github.com/fonroot01/Droid-Specter.git]
+https://github.com/fonroot01/Droid-Specter.git
 ```
 
 ### Instalación de Dependencias
