@@ -1,3 +1,6 @@
+
+![banner](https://github.com/user-attachments/assets/e5a6ee23-3769-4a35-8df2-d303730df9a5)
+
 # Droid Specter
 Droid Specter es una herramienta desarrollada en Python que te permite tomar el control de tus dispositivos Android directamente desde tu PC.
 Con una interfaz gráfica amigable, podrás gestionar tus dispositivos a través de ADB (Android Debug Bridge) de forma sencilla. 
@@ -68,10 +71,17 @@ pip install ttkbootstrap Pillow
 
 ---
 
-## Interfaz Gráfica
+### Interfaz Gráfica
 
+![INTERFAZ](https://github.com/user-attachments/assets/b16bc481-4240-4378-9e18-03d48f16da20)
 
----
+### Funciones
+![FUNCIONES](https://github.com/user-attachments/assets/fd8e3bcc-6eea-4c13-a31e-5e5cd2e6092d)
 
-**Autor:** Alfonso Mosquera
-**Correo electrónico:** alfomosque22@gmail.com
+## Licencia
+
+Este proyecto trabaja bajo la licencia MIT
+
+## Autor
+
+Alfonso Mosquera - alfomosque22@gmail.com
