@@ -80,7 +80,7 @@ pip install ttkbootstrap Pillow
 
 ## Licencia
 
-Este proyecto trabaja bajo la licencia MIT
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
 
 ## Autor
 
