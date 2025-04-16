@@ -147,11 +147,12 @@ def take_screenshot():
     messagebox.showinfo("Captura de pantalla", "Proceso completado.")
     progress_window.destroy()
 
-
+def on_mouse_wheel(event):
+    canvas.yview_scroll(-1 * (event.delta // 120), "units")
 
 # Interfaz gráfica (modo compacto móvil)
 root = tb.Window(themename="darkly")
-root.title("DroidSpecter")
+root.title("Droid Specter")
 root.geometry("360x640")  # Tamaño tipo app móvil
 root.resizable(False, False)
 root.eval('tk::PlaceWindow %s center' % root.winfo_pathname(root.winfo_id()))
@@ -190,6 +191,9 @@ def resize_scrollable(event):
     canvas.itemconfig(window_id, width=event.width)
 
 canvas.bind("<Configure>", resize_scrollable)
+
+# Vincular el evento de la rueda del ratón al canvas
+canvas.bind_all("<MouseWheel>", on_mouse_wheel)
 
 icon_frame = ttk.Frame(scrollable_frame)
 icon_frame.pack(pady=10)
