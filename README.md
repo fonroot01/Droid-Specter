@@ -1,5 +1,4 @@
-
-![banner](https://github.com/user-attachments/assets/e5a6ee23-3769-4a35-8df2-d303730df9a5)
+![banner-removebg-preview](https://github.com/user-attachments/assets/32fd266c-26f2-4024-bda2-02fa62403e9a)
 
 # Droid Specter
 Droid Specter es una herramienta desarrollada en Python que te permite tomar el control de tus dispositivos Android directamente desde tu PC.
